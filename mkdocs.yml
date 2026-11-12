@@ -1,0 +1,22 @@
+site_name: 드래건 드라이브 공략 위키
+site_description: 드래건 드라이브 월드 D-브레이크 한국어 공략
+docs_dir: docs
+
+theme:
+  name: material
+  language: ko
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+extra_css:
+  - assets/css/extra.css
+
+
+plugins:
+  - search
+  - awesome-pages
+

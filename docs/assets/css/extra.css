@@ -1,0 +1,12 @@
+/* 좌측 사이드바 대분류 */
+.md-sidebar--primary .md-nav__item--nested > .md-nav__link {
+    font-weight: 900;
+    font-size: 0.85rem;
+    color: #34495e;
+}
+
+/* 하위 문서는 기본 굵기 유지 */
+.md-sidebar--primary .md-nav__item:not(.md-nav__item--nested) > .md-nav__link {
+    font-weight: 400;
+    color: #555555;
+}
