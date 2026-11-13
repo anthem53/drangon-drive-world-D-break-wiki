@@ -4,7 +4,7 @@
 
 현재 GitHub Pages에서 운영 중입니다.
 
-**[공략 위키 바로가기](https://anthem53.github.io/drangon-drive-world-D-break-wiki/)**
+**[공략 위키 바로가기](https://anthem53.github.io/dragon-drive-world-D-break-wiki/)**
 
 ## 주요 내용
 
